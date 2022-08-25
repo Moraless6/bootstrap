@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Slab', serif ;
+}
+
+
+/*Estilos generales*/
+.titulos-generales {
+    color: #84a98c;
+    font-size: 2rem;
+    text-align: center;
+    padding: 1em;
+}
+
+.subtitulos-generales {
+    color: #84a98c;
+    font-size: 22px;
+}
+
+.texto {
+    color: #eaf4f4;
+    font-size: 18px;
+}
+
+.bg-rp {
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(./../img/85454719-vector-sin-patrón-con-productos-de-panadería-dibujado-a-mano-doodle-y-pasteles.webp);
+    background-attachment: fixed; 
+}
+
+/*Estilos para el nav*/
+.nav-link {
+    color:#eaf4f4
+}
+
+.bg-nav {
+    background-color:#6b9080;
+}
+
+/*Estilos para el footer*/
+.footer {
+    background-color: #6b9080; 
+    color:#2f3e46;
+}
+
+/*Estilos para la página "index"*/
+.reposteria-candela {
+    font-size: 1.5em;
+    padding: 3em;
+}
+
+.bg-index {
+    background-color:#a4c3b2;
+}
+
+.reposteria-candela h1, p {
+    color: #eaf4f4;
+}
+
+.card-index {
+    width: 17rem;
+}
+ 
+/*Estilos para la página "nosotros"*/
+
+.img-fluid {
+    filter:brightness(0.8);  
+    background-attachment: fixed;
+}
+
+/*Estilos para la página "contacto"*/
+
+.form-label {
+    color: #fff;
+}
+
+/*Estilos para la página "productos"*/
+.img-productos {
+    width:22em;
+}
